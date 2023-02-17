@@ -19,6 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 This is my first challenge from front end mentor. Fun little challenge to get me started. I used a media query to select either the small (375px) css file or the large (1440px) css file. There's really nothing in between. The QR and all content gets smooshed until you reach 375px, then it snaps back to what the design looks like.
 
+
 ### Screenshot
 
 ![](./screenshot.png)
