@@ -21,7 +21,8 @@ This is my first challenge from front end mentor. Fun little challenge to get me
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
+![](./screenshot-small.png)
 
 
 ### Links
